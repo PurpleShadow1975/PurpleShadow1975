@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!
+
+My name is Antje Myriknas. I am a Web Developer from Beckenham, Greater London, UK. I started my journey into Web Development in 2021, coming from an IT Operations and DevOps background. 
+
 
 <!--
 **PurpleShadow1975/PurpleShadow1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
