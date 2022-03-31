@@ -1,7 +1,8 @@
-### Hi!
+<img src="https://github.com/PurpleShadow1975/PurpleShadow1975/blob/main/header.PNG" />
+
  
 
-My name is Antje Myriknas. I am a Web Developer from Beckenham, Greater London, UK. I started my journey into Web Development in 2021, coming from an IT Operations and DevOps background. 
+My name is Antje Myriknas. I am a Web Developer from Beckenham, Greater London, UK. I started my journey into Web Development in 2021, coming from an IT Operations and DevOps background. Currently, I am participating in the #100Devs bootcamp to become a Full Stack Developer.
 
 <p align="left"
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PurpleShadow1975&show_icons=true&them=tokyonight" />
@@ -32,7 +33,7 @@ My name is Antje Myriknas. I am a Web Developer from Beckenham, Greater London, 
 <p align="center"
   [Portfolio](https://a-myriknas.netlify.app/)
 </ p>
-
+<img src="https://github.com/PurpleShadow1975/PurpleShadow1975/blob/main/footer.PNG" />
 <!--
 **PurpleShadow1975/PurpleShadow1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
