@@ -1,4 +1,5 @@
 ### Hi!
+ 
 
 My name is Antje Myriknas. I am a Web Developer from Beckenham, Greater London, UK. I started my journey into Web Development in 2021, coming from an IT Operations and DevOps background. 
 
@@ -11,6 +12,23 @@ My name is Antje Myriknas. I am a Web Developer from Beckenham, Greater London, 
 [![Antje's GitHub stats](https://github-readme-stats.vercel.app/api?username=purpleshadow1975)](https://github.com/purpleshadow1975/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purpleshadow1975&layout=compact)](https://github.com/purpleshadow1975/github-readme-stats)
 
+ <p align="center">
+    <a href="https://twitter.com/AMyriknas" alt="Twitter"></a>
+    
+  
+  
+  <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+
+
+<p align="center">
+    <a href="https://visitor-badge.glitch.me/">
+      <img align="center" src="https://page-views.glitch.me/badge?page_id=PurpleShadow1975.PurpleShadow1975">
+    </a>
+  </p>
+  
 <p align="center"
   [Portfolio](https://a-myriknas.netlify.app/)
 </ p>
