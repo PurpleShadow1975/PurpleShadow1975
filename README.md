@@ -4,19 +4,22 @@ My name is Antje Myriknas. I am a Web Developer from Beckenham, Greater London, 
 
 When I am not coding I enjoy researching my family history and I do volunteer translations for [MyHeritage](https://www.myheritage.de/). 
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=PurpleShadow1975&show_icons=true&them=tokyonight" />
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=PurpleShadow1975&show_icons=true&them=tokyonight" />
-</ p>
+ 
+![](https://github.com/PurpleShadow1975/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/PurpleShadow1975/github-stats/blob/master/generated/languages.svg)
+ 
+
+
+
 
  
 
 
 
- <p align="center">
+<!--  <p align="right">
     <a href="https://twitter.com/AMyriknas" alt="Twitter"><img width="3%" src="https://github.com/PurpleShadow1975/PurpleShadow1975/blob/main/twitter-svgrepo-com.svg"></a>
 <a href="https://www.linkedin.com/in/antje-myriknas-29195b7" alt="LinkedIn"><img width="3%" src="https://github.com/PurpleShadow1975/PurpleShadow1975/blob/main/linkedin-svgrepo-com.svg">
- </ p>
+ </ p> -->
   
   
  
